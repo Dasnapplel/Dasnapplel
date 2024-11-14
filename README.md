@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dasnapplel
 - 👀 I’m interested in programming (and) videogames (shocker)
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on any roblox game development
+- 🌱 I’m currently learning python and studying Computer Science
+- 💞️ I’m looking to collaborate on any roblox game or with any potential employers
 - 📫 How to reach me: DiegoDJBV@hotmail.com
 - 😄 Pronouns: none
 - ⚡ Fun fact: I am in your basement
